@@ -1,5 +1,5 @@
 class Dog
-ido = Dog
+end
+fido = Dog
 snoopy = Dog
 lassie = Dog
-end
